@@ -1,14 +1,18 @@
 # Fullstack Reference
 ## Technologies
-1. frontend-web 
-   1. frontend-react-redux
-   2. frontend-react-graphql
-2. frontend-app
-   1. react-native
-   2. ios
-3. backend
-4. devops
-5. database
+1. frontend
+   1. web
+      1. frontend-react-redux
+      2. frontend-react-graphql 
+   2. mobile
+      1. react-native
+      2. ios
+2. backend
+   1. js
+      1. node-express
+   2. java
+3. infrastructure
+4. database
    - TiDB
    - MySQL
 
