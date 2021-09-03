@@ -20,6 +20,26 @@
   - Directory: backend/js/node-express
     1. Create API routes for retrieving user information
 
+------------------------
+
+### Metadata:
+- Commit message: Started React boilerplate
+- Version: 1.0.2
+- Date started: 3rd September 2021
+- Date completed: 3rd September 2021
+- Date committed: 3rd September 2021
+
+### Updates:
+- System updates:
+    - Directory: ./frontend/web/react-graphql
+        1. Started create-react-native app
+        2.
+
+- Feature updates:
+    - Directory: backend/js/node-express
+        1. Boilerplate for React
+        
+
 -----------------------
 
 ### Metadata:
